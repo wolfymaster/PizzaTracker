@@ -1,0 +1,15 @@
+{
+  "total": 15.00,
+  "items": [
+    {
+      "name": "pizza",
+      "price": 10.00,
+      "quantity": 1
+    },
+    {
+      "name": "breadstix",
+      "price": 5.00,
+      "quantity": 1
+    }
+  ]
+}
