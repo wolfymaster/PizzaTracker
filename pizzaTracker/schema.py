@@ -35,5 +35,8 @@ class Order(OrderBase):
     class Config:
         orm_mode = True
 
+class UpdateOrderStatusRequest(BaseModel):
+    id: int
+    status: str
 
 OrderItem.update_forward_refs()
